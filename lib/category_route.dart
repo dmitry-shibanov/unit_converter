@@ -53,7 +53,6 @@ class CategoryRoute extends StatelessWidget {
     return Scaffold(
         backgroundColor: _backgroundColor,
         appBar: AppBar(
-          leading: Icon(Icons.exit_to_app),
           backgroundColor: _backgroundColor,
           elevation: 0,
           title: Text("Unit Converter",

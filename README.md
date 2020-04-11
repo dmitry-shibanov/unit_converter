@@ -5,3 +5,4 @@ A new Flutter project, which was created by lessons from udacity: https://www.ud
 Changes:
 - added some custom changes
 - added tests
+- added localazation
